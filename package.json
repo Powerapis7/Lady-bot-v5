@@ -25,7 +25,7 @@
   "dependencies": {
     "@google/generative-ai": "^0.21.0",
     "@vitalets/google-translate-api": "^9.2.0",
-    "@whiskeysockets/baileys": "^6.7.9",
+    "@whiskeysockets/baileys": "^6.7.12",
     "acrcloud": "^1.4.0",
     "assemblyai": "^4.8.0",
     "cfonts": "^3.3.0",
